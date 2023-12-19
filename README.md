@@ -248,6 +248,9 @@ Purchase order can be acknowledged with GET as well as POST method. If the endpo
 | :------     | :------ |  :------   | :------   |
 | `po_number` | Int |  Delete a purchase order by hitting the above endpoint with a valid po_number| Http 204 No Content response |
 
+### Test Suite
+Test suite is present in the source code of the project for testing the project and its functionalities.
+
 
 
 
