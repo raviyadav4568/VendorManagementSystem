@@ -1,0 +1,4 @@
+INSERT INTO vendormanagementsystem.profilemanager_historicalperformancemodel (date, on_time_delivery_rate, quality_rating_avg, average_response_time, fulfillment_rate, vendor_id) VALUES ('2023-12-17 13:50:54.350367', 0, 4.5, 7.374, 1, '1');
+INSERT INTO vendormanagementsystem.profilemanager_historicalperformancemodel (date, on_time_delivery_rate, quality_rating_avg, average_response_time, fulfillment_rate, vendor_id) VALUES ('2023-12-18 18:40:29.187717', 0, 4, 3.094, 0.75, '2');
+INSERT INTO vendormanagementsystem.profilemanager_historicalperformancemodel (date, on_time_delivery_rate, quality_rating_avg, average_response_time, fulfillment_rate, vendor_id) VALUES ('2023-12-14 16:03:55.000000', null, null, null, null, '3');
+INSERT INTO vendormanagementsystem.profilemanager_historicalperformancemodel (date, on_time_delivery_rate, quality_rating_avg, average_response_time, fulfillment_rate, vendor_id) VALUES ('2023-12-14 16:04:04.000000', null, null, null, null, '4');
